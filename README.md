@@ -2,9 +2,9 @@
 Advanced Automated Reconnaissance Scanner
 
 Download Instructions:
-git clone https://github.com/praecantat0r/A.A.R.S.git
-cd A.A.R.S
-chmod -x A.A.R.S.sh
+1. git clone https://github.com/praecantat0r/A.A.R.S.git
+2. cd A.A.R.S
+3. chmod -x A.A.R.S.sh
 
 Usage:
 sudo bash A.A.R.S.sh <ip>
